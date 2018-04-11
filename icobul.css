@@ -1,0 +1,17 @@
+/* Icon Bullet CSS */
+
+.ib {
+    padding-left: 1em;
+}
+
+.icobul-item {
+    padding-left: 1em;
+    text-indent: -1em;
+}
+
+.icobul-subitem {
+    padding-left: 0px;
+    text-indent: 0px;
+    margin-bottom: 0px;
+}
+
